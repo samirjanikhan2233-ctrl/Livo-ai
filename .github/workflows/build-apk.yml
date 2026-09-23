@@ -1,4 +1,4 @@
-name:Build Livo APK
+name: Build Livo APK
 
 on:
   workflow_dispatch:
